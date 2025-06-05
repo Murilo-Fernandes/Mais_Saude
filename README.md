@@ -74,8 +74,3 @@ Este é um projeto acadêmico. Se você tiver sugestões para futuras melhorias 
 
 ---
 
-## 📄 Licença
-
-Este projeto está licenciado sob a licença **[Nome da Licença, por exemplo: MIT License]**. Veja o arquivo `LICENSE` para mais detalhes.
-
----
